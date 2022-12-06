@@ -1,0 +1,64 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Código Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Código Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Código Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Código Con Juan"
+    },
+    {
+      "nombre": "Jeringa",
+      "empresa": "Sábados Felices",
+      "email": "jeringa@micorreo.com",
+      "telefono": "123456789",
+      "notas": "Humorista Flaco",
+      "id": 7
+    },
+    {
+      "nombre": "La Gorda Fabiola",
+      "empresa": "Sabados Felices",
+      "email": "gorda@micorreo.com",
+      "telefono": "234567890",
+      "notas": "Humorista Gordita",
+      "id": 8
+    },
+    {
+      "nombre": "Hombre Caiman",
+      "empresa": "Sabados Felices",
+      "email": "caiman@micorreo.com",
+      "telefono": "3456789098",
+      "notas": "Humorista Guitarrista",
+      "id": 9
+    },
+    {
+      "nombre": "Don Jediondo",
+      "empresa": "Sabados Felices",
+      "email": "jediondo@micorreo.com",
+      "telefono": "5678909876",
+      "notas": "Humorista Abusivo",
+      "id": 10
+    }
+  ]
+}
